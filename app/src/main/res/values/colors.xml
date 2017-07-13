@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="color_open">#03A9F4</color>
+    <color name="color_close">#f13737</color>
+    <color name="colorActivityBackground" >#FAFAFA</color>
+
+    <color name="primary_text_dark">#212121</color>
+    <color name="primary_text_light">#FFFFFF</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="white">#FFFFFF</color>
+</resources>

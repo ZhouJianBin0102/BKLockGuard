@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sound_tones">
+        <item>锁车</item>
+        <item>机械战警拔枪</item>
+        <item>钢铁侠武装</item>
+        <item>自定义</item>
+    </string-array>
+
+    <string-array name="sound_warning">
+        <item>滴滴报警</item>
+        <item>警车鸣笛</item>
+        <item>哔哔报警</item>
+        <item>自定义</item>
+    </string-array>
+
+    <string-array name="delays_protect">
+        <item>0秒</item>
+        <item>1秒</item>
+        <item>2秒（灵敏）</item>
+        <item>3秒</item>
+        <item>4秒</item>
+        <item>5秒（一般）</item>
+        <item>6秒</item>
+        <item>7秒</item>
+        <item>8秒（较慢）</item>
+        <item>9秒</item>
+        <item>10秒</item>
+    </string-array>
+
+    <string-array name="delays_warning">
+        <item>0秒</item>
+        <item>1秒</item>
+        <item>2秒（灵敏）</item>
+        <item>3秒</item>
+        <item>4秒</item>
+        <item>5秒（一般）</item>
+        <item>6秒</item>
+        <item>7秒</item>
+        <item>8秒（较慢）</item>
+        <item>9秒</item>
+        <item>10秒</item>
+    </string-array>
+</resources>

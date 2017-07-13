@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/setting">
+        <menu>
+            <item
+                android:id="@+id/nav_auto_protect"
+                android:icon="@drawable/ic_set"
+                android:title="@string/setting_protect" />
+        </menu>
+    </item>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_check_upgrade"
+                android:icon="@drawable/ic_upgrade"
+                app:actionLayout="@layout/nav_badge"
+                android:title="@string/title_check_upgrade" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help"
+                app:actionLayout="@layout/nav_badge"
+                android:title="@string/title_help" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                app:actionLayout="@layout/nav_badge"
+                android:title="@string/title_feedback" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/title_about" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorActivityBackground"
+    tools:context="com.zhoujianbin.bklockguard.ui.HelpActivity">
+    <include
+        layout="@layout/appbar"/>
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="口袋防盗"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="具体操作：" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="1.点击应用界面中间的按钮开启防盗\n2.点击手机的电源键进行普通锁屏操作\n3.放入口袋后，延时一段时间听到提示音或感到手机震动即进入“口袋防护”模式\n4.“口袋防护”模式下，只要手机从口袋拿出，即进入“报警”模式\n5.“报警”模式会先延时一段时间，使用户有时间解锁，延时后未解锁即播放报警声\n6.解锁才能解除报警声\n（上述延时、报警、震动可在设置自定义）" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/divider" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="USB防盗"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="具体操作：" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="1.点击应用界面中间的按钮开启防盗\n2.使用USB线充电或连接电脑等使手机处于充电状态\n3.插上USB线后即听到提示音或感到手机震动即进入“USB防护”模式\n4.“USB防护”模式下，只要拔出连接手机充电状态的USB线，即进入“报警”模式\n5.“报警”模式会先延时一段时间，使用户有时间解锁，延时后未解锁即播放报警声\n6.解锁才能解除报警声\n（上述延时、报警、震动可在设置自定义）" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

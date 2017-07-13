@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.zhoujianbin.bklockguard.ui.MainActivity"
+    tools:showIn="@layout/drawer_main">
+
+    <com.skyfishjy.library.RippleBackground
+        android:id="@+id/ripple_back"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="20dp"
+        app:rb_color="@color/color_open"
+        app:rb_radius="32dp"
+        app:rb_rippleAmount="4"
+        app:rb_duration="3000"
+        app:rb_scale="6">
+
+        <ToggleButton
+            android:id="@+id/tb_lock"
+            android:layout_width="280dp"
+            android:layout_height="280dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_bt_toggle_lock"
+            android:checked="false"
+            android:textOff=""
+            android:textOn="" />
+    </com.skyfishjy.library.RippleBackground>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_setting"
+        android:layout_marginBottom="60dp"
+        app:fabSize="normal" />
+
+</LinearLayout>
