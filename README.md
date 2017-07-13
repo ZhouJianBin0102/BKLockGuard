@@ -143,7 +143,7 @@
 - [切换按钮：SwitchButton](https://github.com/zcweng/SwitchButton)
 - [进度条：AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 - [波纹点击效果：material-ripple](https://github.com/balysv/material-ripple)
-- [波浪背景效果：ripple-background](https://github.com/skyfishjy/android-ripple-background)
+- [波纹背景效果：ripple-background](https://github.com/skyfishjy/android-ripple-background)
 - [右划返回：BGASwipeBackLayout](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 - [波纹跳转效果：CircularAnim](https://github.com/XunMengWinter/CircularAnim)
 
