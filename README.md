@@ -25,12 +25,12 @@
 
 ## 预览
 
-![screen_gif](http://oss5no2wu.bkt.clouddn.com/screengif.gif)
-![screen1](http://oss5no2wu.bkt.clouddn.com/screenshotsceen1.jpg?imageMogr2/thumbnail/!22.5p)
-![screen2](http://oss5no2wu.bkt.clouddn.com/screenshotsceen2.jpg?imageMogr2/thumbnail/!22.5p)
-![screen3](http://oss5no2wu.bkt.clouddn.com/screenshotsceen3.jpg?imageMogr2/thumbnail/!22.5p)
-![screen4](http://oss5no2wu.bkt.clouddn.com/screenshotsceen4.jpg?imageMogr2/thumbnail/!22.5p)
-![screen5](http://oss5no2wu.bkt.clouddn.com/screenshotsceen5.jpg?imageMogr2/thumbnail/!22.5p)
+![screen_gif](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/screenshow.gif)
+![screen1](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/shotscreen1.jpg)
+![screen2](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/shotscreen2.jpg)
+![screen3](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/shotscreen3.jpg)
+![screen4](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/shotscreen4.jpg)
+![screen5](https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/shotscreen5.jpg)
 
 ## 下载
 
@@ -189,7 +189,7 @@
 [![jianshu][jianshu_svg]][jianshu]
 [![qq_group][qq_group_svg]][qq_group]
 
-[bannar_svg]:http://oss5no2wu.bkt.clouddn.com/git_bannar.png?imageMogr2/thumbnail/!150p
+[bannar_svg]:https://github.com/ChinaFir/BKLockGuard/blob/origin/screenshot/banner.png
 [bannar]:http://android.myapp.com/myapp/detail.htm?apkName=com.zhoujianbin.bklockguard
 
 [license_svg]:https://img.shields.io/badge/License-Apache--2.0-blue.svg
